@@ -33,7 +33,7 @@ This API was made to receive/send recipes. The actions are:
 4. Run the command "rails db:create db:migrate" to migrate the databases into PostgreSQL;
 5. Run the command "rails s" to initizalize the server. It will start at port 3000.
 
-#How to test:
+# How to test:
 1. To test the models run "rails test:models"
 2. To test the controllers run "rails test:controllers"
 
